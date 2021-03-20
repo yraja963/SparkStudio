@@ -7,3 +7,4 @@ const Pagination=({imageperpage,totalimages})=>{
 }
 export default Pagination;
 // 
+// 
