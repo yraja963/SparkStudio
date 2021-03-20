@@ -9,3 +9,4 @@ const Post=({image,loading})=>{
     </ul>)
 }
 export default Post;
+// 
